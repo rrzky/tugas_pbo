@@ -1,5 +1,5 @@
 #ifndef EXTERIOR_H
-#define EXTERIOR _H
+#define EXTERIOR_H
 
 class Exterior
 {
