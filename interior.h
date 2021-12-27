@@ -1,5 +1,5 @@
 #ifndef INTERIOR_H
-#define INTERIOR _H
+#define INTERIOR_H
 
 class Interior
 {
