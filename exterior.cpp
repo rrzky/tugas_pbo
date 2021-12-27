@@ -3,7 +3,7 @@
 
 using namespace std;
 
-Exterior::Exterior(int LampuUtma, int LampuSein, int LampuBelakang, int PintuDepan, int PintuBelakang, int Roda, int KapDepan)
+Exterior::Exterior(int LampuUtama, int LampuSein, int LampuBelakang, int PintuDepan, int PintuBelakang, int Roda, int KapDepan)
 {
 	this->LampuUtama = LampuUtama;
 	this->LampuSein = LampuSein;
